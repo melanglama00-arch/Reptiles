@@ -38,7 +38,13 @@ else:
 #the concept of list in python 
 info= ["milan", 20, "nepal", "happy"]
 print(info)
-
+print(info[3])
+#tuples in python
+print("tuple is bult-in datatype.That is immutable")
+tup= (34,45,66,77)
+print(tup[2])
+print(type(tup))
+print(tup[1])
 
    
 
